@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Browser" id="1" x="16" y="33" width="649" height="464" text="Add Goods&#xA;http://example.com" measuredWidth="649" measuredHeight="464"/>
+  <widgets xsi:type="model:Accordion" id="2" x="26" y="160" width="118" text="Overview&#xA;Add goods&#xA;-Import goods&#xA;-Add manually&#xA;Incoming orders" measuredWidth="118" measuredHeight="182" selection="0">
+    <items x="0" y="2" width="118" height="25" text="Overview"/>
+    <items x="0" y="132" width="118" height="25" text="Add goods"/>
+    <items x="0" y="157" width="0" height="0" text="-Import goods"/>
+    <items x="0" y="157" width="0" height="0" text="-Add manually"/>
+    <items x="0" y="157" width="118" height="25" text="Incoming orders"/>
+  </widgets>
+  <widgets xsi:type="model:Placeholder" id="3" x="26" y="95" width="118" height="53" measuredWidth="118" measuredHeight="53"/>
+  <widgets xsi:type="model:Panel" id="4" x="152" y="152" width="503" height="327" measuredWidth="503" measuredHeight="327"/>
+  <widgets xsi:type="model:TextField" id="5" x="248" y="173" width="137" text="/home/user/goods.xml" measuredWidth="137" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="6" x="162" y="173" text="File to import:" measuredWidth="82" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="7" x="400" y="172" text="Import" measuredWidth="57" measuredHeight="25">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Table" id="8" x="162" y="231" width="479" height="217" text="Name,Last\nName,=. Age v,(w:30). Kids,Likes,(align:center). Actions&#xA;Peter,Severin,36,[x],{computer},[Edit] [View]&#xA;Henri,Severin,6,[],{train},[Edit] [View]&#xA;Olga,Severin,61,[x],{note},[Edit] [View]&#xA;[-] You can even&#xA;  [+] Make a&#xA;  [+] Tree table" measuredWidth="479" measuredHeight="217" alternative="#eeeeee">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="9" x="162" y="209" text="Imported:" measuredWidth="59" measuredHeight="23">
+    <font/>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font size="12px"/>
+</model:Screen>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Browser" id="1" x="16" y="33" width="649" height="464" text="Incoming orders&#xA;http://example.com/orders" measuredWidth="649" measuredHeight="464"/>
+  <widgets xsi:type="model:Accordion" id="2" x="26" y="160" width="118" text="Overview&#xA;Add goods&#xA;-Import goods&#xA;-Add manually&#xA;Incoming orders" measuredWidth="118" measuredHeight="182" selection="4">
+    <items x="0" y="2" width="118" height="25" text="Overview"/>
+    <items x="0" y="27" width="118" height="25" text="Add goods"/>
+    <items x="0" y="52" width="0" height="0" text="-Import goods"/>
+    <items x="0" y="52" width="0" height="0" text="-Add manually"/>
+    <items x="0" y="52" width="118" height="25" text="Incoming orders"/>
+  </widgets>
+  <widgets xsi:type="model:Placeholder" id="3" x="26" y="95" width="118" height="53" measuredWidth="118" measuredHeight="53"/>
+  <widgets xsi:type="model:Panel" id="4" x="152" y="152" width="503" height="327" measuredWidth="503" measuredHeight="327"/>
+  <widgets xsi:type="model:Table" id="15" x="162" y="192" width="471" height="97" text="#,Sender, Goods,=. Total v,(align:center). Actions&#xA;1,Peter,1;2;3,124,[Process] [Discard]&#xA;2,Henri,3;4;5,62,[Process] [Discard]&#xA;3,Olga,4;6;2,61,[Process] [Discard]" measuredWidth="471" measuredHeight="97" alternative="#eeeeee">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="16" x="168" y="162" text="Orders:" measuredWidth="46" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="17" x="240" y="235" width="313" height="222" measuredWidth="313" measuredHeight="222"/>
+  <widgets xsi:type="model:Placeholder" id="19" x="312" y="272" width="151" height="56" measuredWidth="151" measuredHeight="56"/>
+  <widgets xsi:type="model:Label" id="20" x="250" y="272" text="Sender:" measuredWidth="47" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="21" x="250" y="343" text="Order:" measuredWidth="41" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Placeholder" id="22" x="312" y="343" width="151" height="56" measuredWidth="151" measuredHeight="56"/>
+  <widgets xsi:type="model:Button" id="23" x="416" y="422" text="Process" measuredWidth="62" measuredHeight="25">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="24" x="487" y="422" text="Cancel" measuredWidth="56" measuredHeight="25">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="26" x="336" y="239" text="Order processing" measuredWidth="102" measuredHeight="23">
+    <font bold="true"/>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font size="12px"/>
+</model:Screen>
