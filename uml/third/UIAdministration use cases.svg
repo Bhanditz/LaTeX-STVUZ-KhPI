@@ -51,22 +51,22 @@
       ><path d="M0 0 L134 0 L134 144 L0 144 L0 0 Z"
       /></clipPath
       ><clipPath clipPathUnits="userSpaceOnUse" id="clipPath16"
-      ><path d="M0 0 L207 0 L207 177 L0 177 L0 0 Z"
-      /></clipPath
-      ><clipPath clipPathUnits="userSpaceOnUse" id="clipPath17"
       ><path d="M0 0 L294 0 L294 104 L0 104 L0 0 Z"
       /></clipPath
-      ><clipPath clipPathUnits="userSpaceOnUse" id="clipPath18"
+      ><clipPath clipPathUnits="userSpaceOnUse" id="clipPath17"
       ><path d="M0 0 L170 0 L170 152 L0 152 L0 0 Z"
       /></clipPath
-      ><clipPath clipPathUnits="userSpaceOnUse" id="clipPath19"
+      ><clipPath clipPathUnits="userSpaceOnUse" id="clipPath18"
       ><path d="M0 0 L323 0 L323 170 L0 170 L0 0 Z"
       /></clipPath
-      ><clipPath clipPathUnits="userSpaceOnUse" id="clipPath20"
+      ><clipPath clipPathUnits="userSpaceOnUse" id="clipPath19"
       ><path d="M0 0 L155 0 L155 230 L0 230 L0 0 Z"
       /></clipPath
-      ><clipPath clipPathUnits="userSpaceOnUse" id="clipPath21"
+      ><clipPath clipPathUnits="userSpaceOnUse" id="clipPath20"
       ><path d="M0 0 L124 0 L124 240 L0 240 L0 0 Z"
+      /></clipPath
+      ><clipPath clipPathUnits="userSpaceOnUse" id="clipPath21"
+      ><path d="M0 0 L215 0 L215 171 L0 171 L0 0 Z"
       /></clipPath
       ><clipPath clipPathUnits="userSpaceOnUse" id="clipPath22"
       ><path d="M-76 -10 L152 -10 L152 20 L-76 20 L-76 -10 Z"
@@ -86,71 +86,81 @@
     ><ellipse rx="50" fill="none" ry="25" clip-path="url(#clipPath2)" cx="50" cy="25"
     /></g
     ><g font-size="11" transform="translate(284,12)" fill-opacity="1" fill="black" text-rendering="geometricPrecision" font-family="&apos;DejaVu Sans&apos;" stroke="black" stroke-opacity="1"
-    ><text x="13" xml:space="preserve" y="29" clip-path="url(#clipPath3)" stroke="none"
-      >Create game</text
+    ><text x="11" xml:space="preserve" y="29" clip-path="url(#clipPath3)" stroke="none"
+      >Створити гру</text
     ></g
     ><g font-size="11" stroke-linecap="butt" transform="translate(164,2)" fill-opacity="1" fill="black" text-rendering="geometricPrecision" font-family="&apos;DejaVu Sans&apos;" stroke-linejoin="round" stroke="black" stroke-opacity="1" stroke-miterlimit="0"
     ><ellipse rx="50" fill="none" ry="20" clip-path="url(#clipPath4)" cx="50" cy="20"
     /></g
     ><g font-size="11" transform="translate(164,2)" fill-opacity="1" fill="black" text-rendering="geometricPrecision" font-family="&apos;DejaVu Sans&apos;" stroke="black" stroke-opacity="1"
-    ><text x="14" xml:space="preserve" y="24" clip-path="url(#clipPath5)" stroke="none"
-      >Delete game</text
+    ><text x="10" xml:space="preserve" y="24" clip-path="url(#clipPath5)" stroke="none"
+      >Видалити гру</text
     ></g
     ><g font-size="11" stroke-linecap="butt" transform="translate(254,102)" fill-opacity="1" fill="black" text-rendering="geometricPrecision" font-family="&apos;DejaVu Sans&apos;" stroke-linejoin="round" stroke="black" stroke-opacity="1" stroke-miterlimit="0"
     ><ellipse rx="80" fill="none" ry="25" clip-path="url(#clipPath6)" cx="80" cy="25"
     /></g
     ><g font-size="11" transform="translate(254,102)" fill-opacity="1" fill="black" text-rendering="geometricPrecision" font-family="&apos;DejaVu Sans&apos;" stroke="black" stroke-opacity="1"
-    ><text x="42" xml:space="preserve" y="29" clip-path="url(#clipPath7)" stroke="none"
-      >Build channel</text
+    ><text x="25" xml:space="preserve" y="29" clip-path="url(#clipPath7)" stroke="none"
+      >Побудувати канал</text
     ></g
     ><g font-size="11" stroke-linecap="butt" transform="translate(214,172)" fill-opacity="1" fill="black" text-rendering="geometricPrecision" font-family="&apos;DejaVu Sans&apos;" stroke-linejoin="round" stroke="black" stroke-opacity="1" stroke-miterlimit="0"
     ><ellipse rx="50" fill="none" ry="20" clip-path="url(#clipPath4)" cx="50" cy="20"
     /></g
     ><g font-size="11" transform="translate(214,172)" fill-opacity="1" fill="black" text-rendering="geometricPrecision" font-family="&apos;DejaVu Sans&apos;" stroke="black" stroke-opacity="1"
-    ><text x="19" xml:space="preserve" y="24" clip-path="url(#clipPath5)" stroke="none"
-      >Start game</text
+    ><text x="17" xml:space="preserve" y="24" clip-path="url(#clipPath5)" stroke="none"
+      >Почати гру</text
     ></g
     ><g font-size="11" stroke-linecap="butt" transform="translate(314,232)" fill-opacity="1" fill="black" text-rendering="geometricPrecision" font-family="&apos;DejaVu Sans&apos;" stroke-linejoin="round" stroke="black" stroke-opacity="1" stroke-miterlimit="0"
     ><ellipse rx="50" fill="none" ry="20" clip-path="url(#clipPath4)" cx="50" cy="20"
     /></g
     ><g font-size="11" transform="translate(314,232)" fill-opacity="1" fill="black" text-rendering="geometricPrecision" font-family="&apos;DejaVu Sans&apos;" stroke="black" stroke-opacity="1"
-    ><text x="20" xml:space="preserve" y="24" clip-path="url(#clipPath5)" stroke="none"
-      >Stop game</text
+    ><text x="10" xml:space="preserve" y="24" clip-path="url(#clipPath5)" stroke="none"
+      >Зупинити гру</text
     ></g
     ><g font-size="11" stroke-linecap="butt" transform="translate(194,242)" fill-opacity="1" fill="black" text-rendering="geometricPrecision" font-family="&apos;DejaVu Sans&apos;" stroke-linejoin="round" stroke="black" stroke-opacity="1" stroke-miterlimit="0"
     ><ellipse rx="50" fill="none" ry="20" clip-path="url(#clipPath4)" cx="50" cy="20"
     /></g
     ><g font-size="11" transform="translate(194,242)" fill-opacity="1" fill="black" text-rendering="geometricPrecision" font-family="&apos;DejaVu Sans&apos;" stroke="black" stroke-opacity="1"
-    ><text x="5" xml:space="preserve" y="24" clip-path="url(#clipPath5)" stroke="none"
-      >View the results</text
+    ><text x="11" xml:space="preserve" y="17" clip-path="url(#clipPath5)" stroke="none"
+      >Переглянути</text
+      ><text x="16" xml:space="preserve" y="31" clip-path="url(#clipPath5)" stroke="none"
+      >результати</text
     ></g
     ><g font-size="11" stroke-linecap="butt" transform="translate(464,62)" fill-opacity="1" fill="black" text-rendering="geometricPrecision" font-family="&apos;DejaVu Sans&apos;" stroke-linejoin="round" stroke="black" stroke-opacity="1" stroke-miterlimit="0"
     ><ellipse rx="50" fill="none" ry="20" clip-path="url(#clipPath4)" cx="50" cy="20"
     /></g
     ><g font-size="11" transform="translate(464,62)" fill-opacity="1" fill="black" text-rendering="geometricPrecision" font-family="&apos;DejaVu Sans&apos;" stroke="black" stroke-opacity="1"
-    ><text x="12" xml:space="preserve" y="24" clip-path="url(#clipPath5)" stroke="none"
-      >Create player</text
+    ><text x="22" xml:space="preserve" y="17" clip-path="url(#clipPath5)" stroke="none"
+      >Створити</text
+      ><text x="29" xml:space="preserve" y="31" clip-path="url(#clipPath5)" stroke="none"
+      >гравця</text
     ></g
     ><g font-size="11" stroke-linecap="butt" transform="translate(454,182)" fill-opacity="1" fill="black" text-rendering="geometricPrecision" font-family="&apos;DejaVu Sans&apos;" stroke-linejoin="round" stroke="black" stroke-opacity="1" stroke-miterlimit="0"
     ><ellipse rx="50" fill="none" ry="20" clip-path="url(#clipPath4)" cx="50" cy="20"
     /></g
     ><g font-size="11" transform="translate(454,182)" fill-opacity="1" fill="black" text-rendering="geometricPrecision" font-family="&apos;DejaVu Sans&apos;" stroke="black" stroke-opacity="1"
-    ><text x="6" xml:space="preserve" y="24" clip-path="url(#clipPath5)" stroke="none"
-      >Set connections</text
+    ><text x="16" xml:space="preserve" y="17" clip-path="url(#clipPath5)" stroke="none"
+      >Встановити</text
+      ><text x="28" xml:space="preserve" y="31" clip-path="url(#clipPath5)" stroke="none"
+      >зв’язки</text
     ></g
     ><g font-size="11" stroke-linecap="butt" transform="translate(144,292)" fill-opacity="1" fill="black" text-rendering="geometricPrecision" font-family="sans-serif" stroke-linejoin="round" stroke="black" stroke-opacity="1" stroke-miterlimit="0"
     ><ellipse rx="40" fill="none" ry="20" clip-path="url(#clipPath8)" cx="40" cy="20"
     /></g
     ><g font-size="11" transform="translate(144,292)" fill-opacity="1" fill="black" text-rendering="geometricPrecision" font-family="sans-serif" stroke="black" stroke-opacity="1"
-    ><text x="25" xml:space="preserve" y="24" clip-path="url(#clipPath9)" stroke="none"
-      >Login</text
+    ><text x="6" xml:space="preserve" y="17" clip-path="url(#clipPath9)" stroke="none"
+      >Авторизува</text
+      ><text x="26" xml:space="preserve" y="31" clip-path="url(#clipPath9)" stroke="none"
+      >тися</text
     ></g
     ><g font-size="11" stroke-linecap="butt" transform="translate(44,312)" fill-opacity="1" fill="black" text-rendering="geometricPrecision" font-family="sans-serif" stroke-linejoin="round" stroke="black" stroke-opacity="1" stroke-miterlimit="0"
     ><ellipse rx="40" fill="none" ry="20" clip-path="url(#clipPath8)" cx="40" cy="20"
     /></g
     ><g font-size="11" transform="translate(44,312)" fill-opacity="1" fill="black" text-rendering="geometricPrecision" font-family="sans-serif" stroke="black" stroke-opacity="1"
-    ><text x="21" xml:space="preserve" y="24" clip-path="url(#clipPath9)" stroke="none"
-      >Logout</text
+    ><text x="17" xml:space="preserve" y="17" clip-path="url(#clipPath9)" stroke="none"
+      >Вийти з</text
+      ><text x="15" xml:space="preserve" y="31" clip-path="url(#clipPath9)" stroke="none"
+      >системи</text
     ></g
     ><g font-size="11" transform="translate(2,162)" fill-opacity="1" fill="black" text-rendering="geometricPrecision" font-family="&apos;DejaVu Sans&apos;" stroke="black" stroke-opacity="1"
     ><text x="9" xml:space="preserve" y="11" clip-path="url(#clipPath10)" stroke="none"
@@ -175,25 +185,25 @@
       /><line clip-path="url(#clipPath15)" fill="none" x1="50" x2="61" y1="90" y2="84" stroke-dasharray="none"
       /><line clip-path="url(#clipPath15)" fill="none" x1="50" x2="51" y1="90" y2="77" stroke-dasharray="none"
     /></g
-    ><g font-size="11" stroke-linecap="butt" transform="translate(14,-21)" fill-opacity="1" fill="black" text-rendering="geometricPrecision" font-family="sans-serif" stroke-linejoin="round" stroke="black" stroke-opacity="1"
-    ><line y2="50" fill="none" x1="50" clip-path="url(#clipPath16)" x2="153" y1="123"
-    /></g
     ><g font-size="11" stroke-linecap="butt" transform="translate(14,82)" fill-opacity="1" fill="black" text-rendering="geometricPrecision" font-family="sans-serif" stroke-linejoin="round" stroke="black" stroke-opacity="1"
-    ><line y2="50" fill="none" x1="50" clip-path="url(#clipPath17)" x2="240" y1="50"
+    ><line y2="50" fill="none" x1="50" clip-path="url(#clipPath16)" x2="240" y1="50"
     /></g
     ><g font-size="8" stroke-linecap="butt" transform="translate(349,92)" fill-opacity="1" fill="black" text-rendering="geometricPrecision" font-family="sans-serif" stroke-linejoin="round" stroke-dasharray="4" stroke="black" stroke-opacity="1"
-    ><line y2="98" fill="none" x1="50" clip-path="url(#clipPath18)" x2="116" y1="50"
-      /><line clip-path="url(#clipPath18)" fill="none" x1="116" x2="109" y1="98" y2="86" stroke-dasharray="none"
-      /><line clip-path="url(#clipPath18)" fill="none" x1="116" x2="102" y1="98" y2="96" stroke-dasharray="none"
+    ><line y2="98" fill="none" x1="50" clip-path="url(#clipPath17)" x2="116" y1="50"
+      /><line clip-path="url(#clipPath17)" fill="none" x1="116" x2="109" y1="98" y2="86" stroke-dasharray="none"
+      /><line clip-path="url(#clipPath17)" fill="none" x1="116" x2="102" y1="98" y2="96" stroke-dasharray="none"
     /></g
     ><g font-size="11" stroke-linecap="butt" transform="translate(51,126)" fill-opacity="1" fill="black" text-rendering="geometricPrecision" font-family="sans-serif" stroke-linejoin="round" stroke="black" stroke-opacity="1"
-    ><line y2="116" fill="none" x1="50" clip-path="url(#clipPath19)" x2="269" y1="50"
+    ><line y2="116" fill="none" x1="50" clip-path="url(#clipPath18)" x2="269" y1="50"
     /></g
     ><g font-size="11" stroke-linecap="butt" transform="translate(47,126)" fill-opacity="1" fill="black" text-rendering="geometricPrecision" font-family="sans-serif" stroke-linejoin="round" stroke="black" stroke-opacity="1"
-    ><line y2="176" fill="none" x1="50" clip-path="url(#clipPath20)" x2="101" y1="50"
+    ><line y2="176" fill="none" x1="50" clip-path="url(#clipPath19)" x2="101" y1="50"
     /></g
     ><g font-size="11" stroke-linecap="butt" transform="translate(14,126)" fill-opacity="1" fill="black" text-rendering="geometricPrecision" font-family="sans-serif" stroke-linejoin="round" stroke="black" stroke-opacity="1"
-    ><line y2="186" fill="none" x1="50" clip-path="url(#clipPath21)" x2="70" y1="50"
+    ><line y2="186" fill="none" x1="50" clip-path="url(#clipPath20)" x2="70" y1="50"
+    /></g
+    ><g font-size="11" stroke-linecap="butt" transform="translate(14,-15)" fill-opacity="1" fill="black" text-rendering="geometricPrecision" font-family="sans-serif" stroke-linejoin="round" stroke="black" stroke-opacity="1"
+    ><line y2="50" fill="none" x1="50" clip-path="url(#clipPath21)" x2="161" y1="117"
     /></g
     ><g font-size="8" transform="translate(384,172)" fill-opacity="1" fill="black" text-rendering="geometricPrecision" font-family="sans-serif" stroke="black" stroke-opacity="1"
     ><text x="10" xml:space="preserve" y="8" clip-path="url(#clipPath22)" stroke="none"
