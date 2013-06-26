@@ -388,6 +388,7 @@ mu$}\hfill%
 
 %% Пропуск строки перед рисунками
 \newenvironment{stdfigure}{\@float{figure}[h!] 
+\stepcounter{ESKD@figure}
 \skipline \centering } {\end@float}
 
 % СТВУЗ ХПІ 3.01-2010 пункт 6.3.4.6
@@ -596,10 +597,10 @@ mu$}\hfill%
 \newcounter{mheadcolnumber}
 \newcommand{\tnumberhead}[1]{
 % вывод в цикле номеров колнок (например, 1 & 2 & 3)
-\multicolumn{1}{|c|}{\setcounter{mheadcolnumber}{1}  1} &
-\Repeat{#1-2}{
-  \multicolumn{1}{c|}{ \stepcounter{mheadcolnumber} \arabic{mheadcolnumber} } &
-}
+%\multicolumn{1}{|c|}{\setcounter{mheadcolnumber}{1}  1} &
+%\Repeat{#1-2}{
+ % \multicolumn{1}{c|}{ \stepcounter{mheadcolnumber} \arabic{mheadcolnumber} } &
+%}
 \multicolumn{1}{c|}{#1}
 }
 
@@ -621,7 +622,7 @@ mu$}\hfill%
 % Подход с longtable стабильнее, но не поддерживает обрыв таблицы снизу
 \newcommand{\longthead}[3]{
 \caption{#2} \\ 
-  \hline #3 \\ \hline \tnumberhead{#1} \\ \headerline
+  \hline #3 \\ \headerline
 \endfirsthead
 \multicolumn{#1}{l}%
            {\captionsize{Закінчення таблиці \thetable}} \\
